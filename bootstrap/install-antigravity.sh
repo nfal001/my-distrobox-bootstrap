@@ -6,4 +6,4 @@ enabled=1
 gpgcheck=0
 EOL
 sudo dnf makecache
-sudo dnf install antigravity
+sudo dnf install antigravity -y
